@@ -10,4 +10,6 @@ The second part of the assignment has the same goal as the first one, i.e. the e
 ## Project
 The last part of the course's assignment concerns the analysis and recognition of an unknown linear black-box system, which means that the order of the system is unknown. In the first place, we examine if the basic requirements of linearity are met, i.e. homogeneity and additivity. The method we use to meet our objective is Least Squares method (offline) and for various combinations of input-output orders we consider the minimum error.
 
+## Contact
+If there are any questions, feel free to [contact me](mailto:thomi199822@gmail.com?subject=[GitHub]%20Source%20Han%20Sans). 
 
