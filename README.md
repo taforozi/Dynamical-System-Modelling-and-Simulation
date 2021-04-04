@@ -1,5 +1,5 @@
 # Dynamical-System-Modelling-and-Simulation
-This assignment was part of the course _Dynamical System Modelling and Simulation_ and it consists of three parts which are described below.
+This assignment was part of the course _Dynamical System Modelling and Simulation_ (7th semester) and it consists of three parts which are described below.
 
 ## Part 1
 The first part refers to **linear parameterization** and **unknown parameter estimation** using off-line parameter estimation techniques. Especially, using the offline version of the **Least Squares Method**, which is based on the minimization of estimation error criteria, we are trying to estimate the real values of the unknown parameters in two cases of systems. To use this method we have to guarantee that the parameters appear in a linear form. The systems we face are a mass - spring - damper system and an RLC circuit.
