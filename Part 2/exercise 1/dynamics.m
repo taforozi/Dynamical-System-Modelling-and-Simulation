@@ -17,6 +17,7 @@ global gamma;
 dxode = zeros(size(xode));
 
 dxode(1) = - a * x + b * u(t);  
+% the laws for phi and theta that arise from the Gradient Method
 dxode(2) = - am * phi1 + x; 
 dxode(3) = - am * phi2 + u(t); 
 dxode(4) = gamma * (x - (th1_hat * phi1 + th2_hat * phi2)) * phi1; 
