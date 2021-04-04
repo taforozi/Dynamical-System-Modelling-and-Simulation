@@ -18,7 +18,7 @@ y_validation = out(time,u_validation(time));
 
 % We are looking for the best pair of input-output orders, which leads to the
 % minimum modeling error. It is necessary that the orders satisfy the
-% inequality n > m, in order to end up with a strictly proper transfer
+% inequality n > m, so as to end up with a strictly proper transfer
 % function.
 i = 1;
 for n = 2:6
