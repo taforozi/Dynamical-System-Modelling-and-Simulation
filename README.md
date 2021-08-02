@@ -1,4 +1,4 @@
-# Dynamical-System-Modelling-and-Simulation
+# Modelling & Simulation of Dynamical Systems
 This assignment was part of the course _Dynamical System Modelling and Simulation_ (7th semester) and it consists of three parts which are described below.
 
 ## Part 1
